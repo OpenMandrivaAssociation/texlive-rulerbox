@@ -1,6 +1,6 @@
 Name:		texlive-rulerbox
 Version:	50984
-Release:	1
+Release:	2
 Summary:	Draw rulers around a box
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/rulerbox
