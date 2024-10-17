@@ -3,7 +3,7 @@ Version:	50984
 Release:	2
 Summary:	Draw rulers around a box
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/rulerbox
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/rulerbox
 License:	lppl1.3c
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/rulerbox.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/rulerbox.doc.r%{version}.tar.xz
